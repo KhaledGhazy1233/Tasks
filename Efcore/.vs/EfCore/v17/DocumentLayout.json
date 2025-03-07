@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\learningc#_iti\\EfCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|e:\\learningc#_iti\\efcore\\efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|solutionrelative:efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|e:\\learningc#_iti\\efcore\\efcore\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|e:\\learningc#_iti\\efcore\\efcore\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|e:\\learningc#_iti\\efcore\\efcore\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|e:\\learningc#_iti\\efcore\\efcore\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|e:\\learningc#_iti\\efcore\\efcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654FD256-4DEE-4660-898B-C70FA46FA88A}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Patient.cs",
+              "ToolTip": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\Patient.cs",
+              "RelativeToolTip": "EfCore\\Models\\Patient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:33:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Hospital.cs",
+              "ToolTip": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\Hospital.cs",
+              "RelativeToolTip": "EfCore\\Models\\Hospital.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:36:19.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "department.cs",
+              "DocumentMoniker": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\department.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\department.cs",
+              "ToolTip": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\department.cs",
+              "RelativeToolTip": "EfCore\\Models\\department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:32:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Doctor.cs",
+              "ToolTip": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\Doctor.cs",
+              "RelativeToolTip": "EfCore\\Models\\Doctor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwBoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:32:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\ITIContext.cs",
+              "ToolTip": "E:\\learningc#_iti\\EfCore\\EfCore\\Models\\ITIContext.cs",
+              "RelativeToolTip": "EfCore\\Models\\ITIContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:28:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\learningc#_iti\\EfCore\\EfCore\\Program.cs",
+              "RelativeDocumentMoniker": "EfCore\\Program.cs",
+              "ToolTip": "E:\\learningc#_iti\\EfCore\\EfCore\\Program.cs",
+              "RelativeToolTip": "EfCore\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:21:52.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
